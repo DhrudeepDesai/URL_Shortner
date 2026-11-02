@@ -39,11 +39,3 @@ go run cmd/main.go
 ```
 
 5. Open browser at `http://localhost:8080`
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
